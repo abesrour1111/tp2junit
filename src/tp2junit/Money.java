@@ -12,7 +12,7 @@ fCurrency = currency;
 public int amount() {
 return fAmount;
 }
-
+//extraire devise//
 public String currency() {
 return fCurrency;
 }
