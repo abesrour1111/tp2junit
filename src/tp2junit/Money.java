@@ -8,7 +8,7 @@ public Money(int amount, String currency) {
 	fAmount = amount;
 fCurrency = currency;
 }
-//extraire qte//
+//extraire quantite//
 public int amount() {
 return fAmount;
 }
